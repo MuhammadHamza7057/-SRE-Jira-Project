@@ -64,4 +64,6 @@ Under the guidance of **Dr. Awais Majeed**, this work demonstrates:
 ---
 
 📅 *Last Updated: May 2025*  
-📧 *Contact: [your.email@university.edu]()*  
+## 📞 Contact
+📧 **Email**: [muhammadhamza7057@gmail.com](mailto:muhammadhamza7057@gmail.com)  
+📱 **WhatsApp**: [+92 342 7057124](https://wa.me/923427057124)
